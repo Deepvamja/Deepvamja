@@ -20,8 +20,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/Deep Vamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepvamja@22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/Deep Vamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep vamja" height="30" width="40" /></a>
+<a href="https://twitter.com/deepvamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="deepvamja@22" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/deepvamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep vamja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepvamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepvamja" height="30" width="40" /></a>
 </p>
 
