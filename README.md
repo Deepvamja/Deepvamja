@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepvamja&label=Profile%20views&color=0e75b6&style=flat" alt="deepvamja" /> </p>
 
-<p align="left"> <a href="https://twitter.com/deepvamja@22" target="blank"><img src="https://img.shields.io/twitter/follow/deepvamja@22?logo=twitter&style=for-the-badge" alt="deepvamja@22" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/" target="blank"><img src="https://img.shields.io/linkedin/follow/deep-vamja-03b0a12b1?logo=linkedin&style=for-the-badge" alt="DeepVamja" /></a> </p>
 
 - 🔭 I’m currently working on **full stack development**
 
