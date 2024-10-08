@@ -1,6 +1,6 @@
 [![MasterHead](https://www.rsiconcepts.ae/blog/wp-content/uploads/2020/12/Development-Programming-and-Coding.jpg)](https://Deepvamja.io)
 <h1 align="center">Hi 👋, I'm Deep Vamja</h1>
-<h3 align="center">A passionate frontend,backend developer from India</h3>
+<h3 align="center">A passionate  developer from India</h3>
 <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
