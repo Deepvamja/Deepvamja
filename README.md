@@ -1,7 +1,11 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Deep Vamja</h1>
-[![](https://visitcount.itsvg.in/api?id=DeepVamja&icon=1&color=0)](https://visitcount.itsvg.in)
+
+
+
 <h3 align="center">A passionate developer from India</h3>
+
+[![](https://visitcount.itsvg.in/api?id=DeepVamja&icon=1&color=0)](https://visitcount.itsvg.in)
 
 🔭i am currently working on full stack development<br><br> ⚡ fun fact i loving collaborating <br><br>💬 ask me about mern stack<br><br>📫 How to reach me **deepvamja22@gmail.com**<br>
 
