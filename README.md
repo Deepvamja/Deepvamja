@@ -21,9 +21,10 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=DeepVamja&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codingstella&" alt="codingstella" /></p>
+
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepVamja&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepvamja&" alt="deepvamja" /></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=DeepVamja&theme=radical&no-frame=true&no-bg=false&margin-w=4)
