@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep vamja" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/deepvamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepvamja" height="30" width="40" /></a>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepvamja&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+
 
 
 # 💻 Tech Stack:
