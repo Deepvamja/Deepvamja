@@ -32,7 +32,7 @@
 
   **🛠️ Dev Tools**
   <p>
-    <img src="https://skillicons.dev/icons?i=git,postman,react-router,jwt&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,postman,Jwt&theme=dark" />
   </p>
 </div>
 
@@ -48,7 +48,7 @@
 
 ### 🤝 Connect & Collaborate
 <p align="center">
-  <a href="deepvamja22@gmail.com">
+  <a href="https://www.mail.google.com/mail/deepvamja22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/">
@@ -67,4 +67,4 @@
   <h3>💫 Thanks for exploring my GitHub Profile!</h3>
   <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something help & interesting!</p>
 </div>
-<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
+
