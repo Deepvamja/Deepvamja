@@ -28,7 +28,6 @@
   **🎯 languages**
   <p>
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,sql,python,java&theme=dark" />
-    <img src="https://www.sanity.io/static/images/logo_rounded_square.png" width="48" height="48" alt="Sanity.io" />
   </p>
 
   **🛠️ Dev Tools**
@@ -52,7 +51,7 @@
   <a href="mailto:deepvamja22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/deep-vamja/">
+  <a href="https://www.linkedin.com/in/deepvamja/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
