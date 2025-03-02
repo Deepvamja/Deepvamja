@@ -1,40 +1,72 @@
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Deep Vamja</h1>
-
-
-
-<h3 align="center">A passionate developer from India</h3>
-
-[![](https://visitcount.itsvg.in/api?id=DeepVamja&icon=1&color=0)](https://visitcount.itsvg.in)
-
-🔭i am currently working on full stack development<br><br> ⚡ fun fact i loving collaborating <br><br>💬 ask me about mern stack<br><br>📫 How to reach me **deepvamja22@gmail.com**<br>
-
-<h3 align="left">🌏 Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deep vamja" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/deepvamja" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="deepvamja" height="30" width="40" /></a>
-</p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Deepvamja&&theme=dark&show_icons=true)](https://git.io/streak-stats" /> 
+  <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
+<div align="center">
+  <h1>👋 Hey there, I'm Deep Vamja</h1>
+  <h3>Passionate Developer love to collobrate</h3>
+</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DeepVamja&label=Profile%20views&color=blueviolet&style=flat" alt="DeepVamja" />
+  <img src="https://img.shields.io/github/followers/DeepVamja?label=Followers&style=social" alt="followers" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Based%20in-India-orange?style=for-the-badge&logo=google-maps&logoColor=white" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=DeepVamja&theme=onedark" alt="GitHub Trophies"/>
+</p>
 
 
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=DeepVamja&theme=omni&hide_border=false&include_all_commits=false&count_private=true)<br/>
+### 💻 Tech Stack Spectrum
+<div align="center">
+  
 
+  **🎯 languages**
+  <p>
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,nodejs,express,mongodb,sql,python,java&theme=dark" />
+    <img src="https://www.sanity.io/static/images/logo_rounded_square.png" width="48" height="48" alt="Sanity.io" />
+  </p>
 
- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepVamja&theme=omni&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+  **🛠️ Dev Tools**
+  <p>
+    <img src="https://skillicons.dev/icons?i=git,postman,reactrouter,jwt&theme=dark" />
+  </p>
+</div>
 
+### 📊 GitHub Stats Spotlight
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DeepVamja&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVamja&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=DeepVamja&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+### 📈 Contribution Graph
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DeepVamja&theme=tokyonight&hide_border=true&area=true" width="100%">
 
+### 🤝 Connect & Collaborate
+<p align="center">
+  <a href="mailto:deepvamja22@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/deep-vamja/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeepVamja&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<div align="center">
+  <h3>💫 Thanks for exploring my GitHub Profile!</h3>
+  <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something interesting!</p>
+</div>
+<img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
