@@ -1,7 +1,7 @@
 
 <div align="center">
   <h1>👋 Hey there, I'm Deep Vamja</h1>
-  <h3>Passionate Developer love to collobrate</h3>
+  <h3>Passionate Developer love to collaborate</h3>
 </div>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeepVamja&label=Profile%20views&color=blueviolet&style=flat" alt="DeepVamja" />
@@ -51,7 +51,7 @@
   <a href="mailto:deepvamja22@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/deepvamja/">
+  <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -65,6 +65,6 @@
 
 <div align="center">
   <h3>💫 Thanks for exploring my GitHub Profile!</h3>
-  <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something interesting!</p>
+  <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something help & interesting!</p>
 </div>
 <img src="https://view.moezx.cc/images/2021/02/25/7217294a8cb992d37eceeb8f5a01d100.gif" height="60" align="right"/>
