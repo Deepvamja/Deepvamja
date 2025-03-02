@@ -1,6 +1,4 @@
-<p align="center">
-  <img align="right"alt="Coding"width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-</p>
+
 <div align="center">
   <h1>👋 Hey there, I'm Deep Vamja</h1>
   <h3>Passionate Developer love to collobrate</h3>
@@ -35,7 +33,7 @@
 
   **🛠️ Dev Tools**
   <p>
-    <img src="https://skillicons.dev/icons?i=git,postman,reactrouter,jwt&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,postman,react-router,jwt&theme=dark" />
   </p>
 </div>
 
@@ -58,6 +56,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=DeepVamja&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
