@@ -48,7 +48,7 @@
 
 ### 🤝 Connect & Collaborate
 <p align="center">
-  <a href="https://www.mail.google.com/mail/deepvamja22@gmail.com">
+  <a href="https://mail.google.com/mail/deepvamja22@gmail.com/">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/">
