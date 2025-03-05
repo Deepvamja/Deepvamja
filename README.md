@@ -39,8 +39,9 @@
 ### 📊 GitHub Stats Spotlight
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DeepVamja&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVamja&theme=tokyonight" alt="GitHub Streak Stats" />
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepVamja&theme=tokyonight" alt="GitHub Streak Stats" />
+
 </div>
 
 ### 📈 Contribution Graph
