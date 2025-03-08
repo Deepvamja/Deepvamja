@@ -66,6 +66,6 @@
 
 <div align="center">
   <h3>💫 Thanks for exploring my GitHub Profile!</h3>
-  <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something help & interesting!</p>
+  <p>Feel free to explore my repositories and don't forget to leave a ⭐ if you find something interesting!</p>
 </div>
 
