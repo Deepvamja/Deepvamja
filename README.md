@@ -25,34 +25,7 @@ I’m a full-stack developer who builds complete products from interface to back
 
 
 
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <a href="https://gitroll.io/profile/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uQ8UJvo11fpOJ2YyqqUcaqFjkNqp1?theme=darkEmerald" alt="GitRoll Profile Badge"/></a>
-  <img src="https://myreadme.vercel.app/api/embed/KenanGain?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="KenanGain's GitHub Stats">
-      <img src="https://github-readme-bento.vercel.app/stats/KenanGain?theme=dark" alt="KenanGain's GitHub Stats">
-      <img src="https://stats.dooboo.io/api/github-stats-advanced?login=KenanGain" alt="Advanced GitHub Stats for KenanGain" width="400">
 
-
-</details>
-
-
-<br>
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for Deep Vamja&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#KenanGain/KenanGain&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=KenanGain/KenanGain&type=Date&theme=dark" />
-  </a>
-
-</details>
-
-
-<br>
 
 
 
@@ -241,7 +214,8 @@ I’m a full-stack developer who builds complete products from interface to back
 </table>
 </div>
 
- ## Github Stats:
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Stats&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+
 <p align="center">
     <a href="https://github.com/Deepvamja">
         <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Deepvamja&show_icons=true&theme=onedark&include_all_commits=true&count_private=true&hide_border=true"/>
