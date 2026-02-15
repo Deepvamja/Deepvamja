@@ -15,7 +15,10 @@ Full-stack developer exploring AI/ML through real-world product integration.
   <h2>🌐 Connect with Me</h2>
 
 <a href="https://www.linkedin.com/in/deep-vamja-03b0a12b1/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
 <a href="mailto:deepvamja22@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+[![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:deepvamja22@gmail.com)
 
 <h2 align="center">🚀 About Me</h2>
 
