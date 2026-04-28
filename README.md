@@ -7,7 +7,7 @@
 
 
 <p align="center">
-Full-stack developer exploring AI/ML through real-world product integration.
+Full-stack developer and Open Source contributor exploring AI/ML through real-world product integration.
 </p>
 
 <div align="center">
@@ -20,7 +20,7 @@ Full-stack developer exploring AI/ML through real-world product integration.
 
 <h2 align="center">🚀 About Me</h2>
 
-I’m a full-stack developer who builds complete products from interface to backend to database design. I focus on structure, performance, and writing code that remains understandable as the system grows.I care about how software behaves in real usage: reliability, scalability, and maintainability.
+I’m a full-stack developerand open source contributor who builds complete products from interface to backend to database design. I focus on structure, performance, and writing code that remains understandable as the system grows.I care about how software behaves in real usage: reliability, scalability, and maintainability.
 <br>
 
 
